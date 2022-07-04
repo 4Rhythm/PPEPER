@@ -1,4 +1,4 @@
-package boj.june
+package boj.july
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
